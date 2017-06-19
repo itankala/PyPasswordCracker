@@ -1,2 +1,2 @@
 # PyPasswordCracker
-Simple Brute Force Password Cracker in Python
+MD5 Hash Brute Force Password Cracker in Python
